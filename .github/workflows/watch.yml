@@ -73,9 +73,11 @@ jobs:
             getextd $key ${grepos[$key]}
           done
 
-          echo "{ \"tools\":[\
-            ${gtxt:0:-1}\
-            ]}" | jq -c > ${{ env.toolcheckpath }}
+          if [[ "$(echo $gtxt)" == *".apk"* ]]; then
+            echo "{ \"tools\":[\
+              ${gtxt:0:-1}\
+              ]}" | jq -c > ${{ env.toolcheckpath }}
+          fi
       - name: Compare
         id: compare
         run: echo is_modified=$([ -z "`git status --porcelain`" ] && echo "no" || echo "yes") >> $GITHUB_OUTPUT
@@ -95,6 +97,7 @@ jobs:
           message: automated update
           push: true
       - name: Deploy
+        if: steps.compare.outputs.is_modified == 'yes'
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: v0
