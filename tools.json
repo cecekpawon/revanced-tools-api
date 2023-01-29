@@ -57,25 +57,25 @@
     },
     {
       "branch": "main",
-      "browser_download_url": "https://github.com/revanced/revanced-patches/releases/download/v2.157.0/revanced-patches-2.157.0.jar",
+      "browser_download_url": "https://github.com/revanced/revanced-patches/releases/download/v2.158.0/revanced-patches-2.158.0.jar",
       "content_type": "application/java-archive",
       "label": "patches_jar",
-      "name": "revanced-patches-2.157.0.jar",
+      "name": "revanced-patches-2.158.0.jar",
       "repository": "revanced/revanced-patches",
-      "size": "1505556",
-      "timestamp": "2023-01-28T08:05:51Z",
-      "version": "v2.157.0"
+      "size": "1509912",
+      "timestamp": "2023-01-29T10:02:47Z",
+      "version": "v2.158.0"
     },
     {
       "branch": "main",
-      "browser_download_url": "https://github.com/revanced/revanced-patches/releases/download/v2.157.0/patches.json",
+      "browser_download_url": "https://github.com/revanced/revanced-patches/releases/download/v2.158.0/patches.json",
       "content_type": "application/json",
       "label": "patches_json",
       "name": "patches.json",
       "repository": "revanced/revanced-patches",
-      "size": "31815",
-      "timestamp": "2023-01-28T08:05:47Z",
-      "version": "v2.157.0"
+      "size": "32027",
+      "timestamp": "2023-01-29T10:02:44Z",
+      "version": "v2.158.0"
     }
   ]
 }
