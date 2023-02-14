@@ -13,14 +13,14 @@
     },
     {
       "branch": "main",
-      "browser_download_url": "https://github.com/revanced/revanced-integrations/releases/download/v0.96.1/revanced-integrations-0.96.1.apk",
+      "browser_download_url": "https://github.com/revanced/revanced-integrations/releases/download/v0.96.2/revanced-integrations-0.96.2.apk",
       "content_type": "application/vnd.android.package-archive",
       "label": "integrations",
-      "name": "revanced-integrations-0.96.1.apk",
+      "name": "revanced-integrations-0.96.2.apk",
       "repository": "revanced/revanced-integrations",
-      "size": "155162",
-      "timestamp": "2023-02-11T00:38:46Z",
-      "version": "v0.96.1"
+      "size": "155170",
+      "timestamp": "2023-02-13T21:46:28Z",
+      "version": "v0.96.2"
     },
     {
       "branch": "flutter",
