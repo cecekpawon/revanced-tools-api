@@ -46,14 +46,14 @@
     },
     {
       "branch": "main",
-      "browser_download_url": "https://api.github.com/repos/revanced/revanced-patcher/tarball/v6.4.3",
+      "browser_download_url": "https://api.github.com/repos/revanced/revanced-patcher/tarball/v7.0.0",
       "content_type": "application/x-gzip",
       "label": "patcher",
-      "name": "revanced-patcher-v6.4.3.tar.gz",
+      "name": "revanced-patcher-v7.0.0.tar.gz",
       "repository": "revanced/revanced-patcher",
       "size": "0",
-      "timestamp": "2023-02-10T04:29:09Z",
-      "version": "v6.4.3"
+      "timestamp": "2023-02-26T23:43:36Z",
+      "version": "v7.0.0"
     },
     {
       "branch": "main",
