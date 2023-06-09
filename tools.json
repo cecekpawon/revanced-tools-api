@@ -24,14 +24,14 @@
     },
     {
       "branch": "flutter",
-      "browser_download_url": "https://github.com/revanced/revanced-manager/releases/download/v1.3.0/revanced-manager-v1.3.0.apk",
+      "browser_download_url": "https://github.com/revanced/revanced-manager/releases/download/v1.3.2/revanced-manager-v1.3.2.apk",
       "content_type": "application/vnd.android.package-archive",
       "label": "manager",
-      "name": "revanced-manager-v1.3.0.apk",
+      "name": "revanced-manager-v1.3.2.apk",
       "repository": "revanced/revanced-manager",
-      "size": "47458241",
-      "timestamp": "2023-05-24T20:46:46Z",
-      "version": "v1.3.0"
+      "size": "47449545",
+      "timestamp": "2023-06-09T08:54:29Z",
+      "version": "v1.3.2"
     },
     {
       "branch": "master",
