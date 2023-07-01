@@ -2,14 +2,14 @@
   "tools": [
     {
       "branch": "main",
-      "browser_download_url": "https://github.com/revanced/revanced-cli/releases/download/v2.21.4/revanced-cli-2.21.4-all.jar",
+      "browser_download_url": "https://github.com/revanced/revanced-cli/releases/download/v2.21.5/revanced-cli-2.21.5-all.jar",
       "content_type": "application/java-archive",
       "label": "cli",
-      "name": "revanced-cli-2.21.4-all.jar",
+      "name": "revanced-cli-2.21.5-all.jar",
       "repository": "revanced/revanced-cli",
-      "size": "44381845",
-      "timestamp": "2023-06-21T23:32:30Z",
-      "version": "v2.21.4"
+      "size": "44386006",
+      "timestamp": "2023-07-01T12:46:35Z",
+      "version": "v2.21.5"
     },
     {
       "branch": "main",
