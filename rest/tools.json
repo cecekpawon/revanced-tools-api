@@ -2,7 +2,7 @@
   "tools": [
     {
       "branch": "main",
-      "browser_download_url": "https://github.com/revanced/revanced-cli/releases/download/v2.22.0/revanced-cli-2.22.0-all.jar",
+      "browser_download_url": "https://github.com/ReVanced/revanced-cli/releases/download/v2.22.0/revanced-cli-2.22.0-all.jar",
       "content_type": "application/java-archive",
       "label": "cli",
       "name": "revanced-cli-2.22.0-all.jar",
@@ -13,7 +13,7 @@
     },
     {
       "branch": "main",
-      "browser_download_url": "https://github.com/revanced/revanced-integrations/releases/download/v0.112.0/revanced-integrations-0.112.0.apk",
+      "browser_download_url": "https://github.com/ReVanced/revanced-integrations/releases/download/v0.112.0/revanced-integrations-0.112.0.apk",
       "content_type": "application/vnd.android.package-archive",
       "label": "integrations",
       "name": "revanced-integrations-0.112.0.apk",
@@ -24,14 +24,14 @@
     },
     {
       "branch": "flutter",
-      "browser_download_url": "https://github.com/revanced/revanced-manager/releases/download/v1.4.0/revanced-manager-v1.4.0.apk",
+      "browser_download_url": "https://github.com/ReVanced/revanced-manager/releases/download/v1.4.1/revanced-manager-v1.4.1.apk",
       "content_type": "application/vnd.android.package-archive",
       "label": "manager",
-      "name": "revanced-manager-v1.4.0.apk",
+      "name": "revanced-manager-v1.4.1.apk",
       "repository": "revanced/revanced-manager",
-      "size": "47474118",
-      "timestamp": "2023-07-10T20:11:16Z",
-      "version": "v1.4.0"
+      "size": "47470078",
+      "timestamp": "2023-07-15T13:49:47Z",
+      "version": "v1.4.1"
     },
     {
       "branch": "master",
@@ -46,7 +46,7 @@
     },
     {
       "branch": "main",
-      "browser_download_url": "https://api.github.com/repos/revanced/revanced-patcher/tarball/v11.0.4",
+      "browser_download_url": "https://api.github.com/repos/ReVanced/revanced-patcher/tarball/v11.0.4",
       "content_type": "application/x-gzip",
       "label": "patcher",
       "name": "revanced-patcher-v11.0.4.tar.gz",
@@ -57,7 +57,7 @@
     },
     {
       "branch": "main",
-      "browser_download_url": "https://github.com/revanced/revanced-patches/releases/download/v2.184.0/revanced-patches-2.184.0.jar",
+      "browser_download_url": "https://github.com/ReVanced/revanced-patches/releases/download/v2.184.0/revanced-patches-2.184.0.jar",
       "content_type": "application/java-archive",
       "label": "patches_jar",
       "name": "revanced-patches-2.184.0.jar",
@@ -68,7 +68,7 @@
     },
     {
       "branch": "main",
-      "browser_download_url": "https://github.com/revanced/revanced-patches/releases/download/v2.184.0/patches.json",
+      "browser_download_url": "https://github.com/ReVanced/revanced-patches/releases/download/v2.184.0/patches.json",
       "content_type": "application/json",
       "label": "patches_json",
       "name": "patches.json",
