@@ -13,25 +13,25 @@
     },
     {
       "branch": "main",
-      "browser_download_url": "https://github.com/ReVanced/revanced-integrations/releases/download/v0.114.0/revanced-integrations-0.114.0.apk",
+      "browser_download_url": "https://github.com/ReVanced/revanced-integrations/releases/download/v0.115.0/revanced-integrations-0.115.0.apk",
       "content_type": "application/vnd.android.package-archive",
       "label": "integrations",
-      "name": "revanced-integrations-0.114.0.apk",
+      "name": "revanced-integrations-0.115.0.apk",
       "repository": "revanced/revanced-integrations",
-      "size": "214368",
-      "timestamp": "2023-07-21T15:09:03Z",
-      "version": "v0.114.0"
+      "size": "222528",
+      "timestamp": "2023-08-02T23:39:40Z",
+      "version": "v0.115.0"
     },
     {
       "branch": "flutter",
-      "browser_download_url": "https://github.com/ReVanced/revanced-manager/releases/download/v1.4.3/revanced-manager-v1.4.3.apk",
+      "browser_download_url": "https://github.com/ReVanced/revanced-manager/releases/download/v1.5.0/revanced-manager-v1.5.0.apk",
       "content_type": "application/vnd.android.package-archive",
       "label": "manager",
-      "name": "revanced-manager-v1.4.3.apk",
+      "name": "revanced-manager-v1.5.0.apk",
       "repository": "revanced/revanced-manager",
-      "size": "47482366",
-      "timestamp": "2023-07-23T09:08:22Z",
-      "version": "v1.4.3"
+      "size": "47797816",
+      "timestamp": "2023-08-02T23:30:41Z",
+      "version": "v1.5.0"
     },
     {
       "branch": "master",
@@ -57,25 +57,25 @@
     },
     {
       "branch": "main",
-      "browser_download_url": "https://github.com/ReVanced/revanced-patches/releases/download/v2.186.0/revanced-patches-2.186.0.jar",
+      "browser_download_url": "https://github.com/ReVanced/revanced-patches/releases/download/v2.187.0/revanced-patches-2.187.0.jar",
       "content_type": "application/java-archive",
       "label": "patches_jar",
-      "name": "revanced-patches-2.186.0.jar",
+      "name": "revanced-patches-2.187.0.jar",
       "repository": "revanced/revanced-patches",
-      "size": "1923568",
-      "timestamp": "2023-07-21T15:08:41Z",
-      "version": "v2.186.0"
+      "size": "1948209",
+      "timestamp": "2023-08-02T23:38:59Z",
+      "version": "v2.187.0"
     },
     {
       "branch": "main",
-      "browser_download_url": "https://github.com/ReVanced/revanced-patches/releases/download/v2.186.0/patches.json",
+      "browser_download_url": "https://github.com/ReVanced/revanced-patches/releases/download/v2.187.0/patches.json",
       "content_type": "application/json",
       "label": "patches_json",
       "name": "patches.json",
       "repository": "revanced/revanced-patches",
-      "size": "40907",
-      "timestamp": "2023-07-21T15:08:38Z",
-      "version": "v2.186.0"
+      "size": "42209",
+      "timestamp": "2023-08-02T23:38:56Z",
+      "version": "v2.187.0"
     }
   ]
 }
