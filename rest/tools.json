@@ -24,14 +24,14 @@
     },
     {
       "branch": "flutter",
-      "browser_download_url": "https://github.com/ReVanced/revanced-manager/releases/download/v1.11.1/revanced-manager-v1.11.1.apk",
+      "browser_download_url": "https://github.com/ReVanced/revanced-manager/releases/download/v1.11.2/revanced-manager-v1.11.2.apk",
       "content_type": "application/vnd.android.package-archive",
       "label": "manager",
-      "name": "revanced-manager-v1.11.1.apk",
+      "name": "revanced-manager-v1.11.2.apk",
       "repository": "revanced/revanced-manager",
-      "size": "44864685",
-      "timestamp": "2023-10-05T15:58:04Z",
-      "version": "v1.11.1"
+      "size": "44868781",
+      "timestamp": "2023-10-07T00:14:28Z",
+      "version": "v1.11.2"
     },
     {
       "branch": "master",
@@ -46,14 +46,14 @@
     },
     {
       "branch": "main",
-      "browser_download_url": "https://api.github.com/repos/ReVanced/revanced-patcher/tarball/v16.0.1",
+      "browser_download_url": "https://api.github.com/repos/ReVanced/revanced-patcher/tarball/v16.0.2",
       "content_type": "application/x-gzip",
       "label": "patcher",
-      "name": "revanced-patcher-v16.0.1.tar.gz",
+      "name": "revanced-patcher-v16.0.2.tar.gz",
       "repository": "revanced/revanced-patcher",
       "size": "0",
-      "timestamp": "2023-10-05T15:31:58Z",
-      "version": "v16.0.1"
+      "timestamp": "2023-10-06T23:59:36Z",
+      "version": "v16.0.2"
     },
     {
       "branch": "main",
