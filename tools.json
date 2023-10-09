@@ -13,14 +13,14 @@
     },
     {
       "branch": "main",
-      "browser_download_url": "https://github.com/ReVanced/revanced-integrations/releases/download/v0.119.0/revanced-integrations-0.119.0.apk",
+      "browser_download_url": "https://github.com/ReVanced/revanced-integrations/releases/download/v0.119.1/revanced-integrations-0.119.1.apk",
       "content_type": "application/vnd.android.package-archive",
       "label": "integrations",
-      "name": "revanced-integrations-0.119.0.apk",
+      "name": "revanced-integrations-0.119.1.apk",
       "repository": "revanced/revanced-integrations",
-      "size": "224860",
-      "timestamp": "2023-10-08T01:49:35Z",
-      "version": "v0.119.0"
+      "size": "224876",
+      "timestamp": "2023-10-09T17:03:16Z",
+      "version": "v0.119.1"
     },
     {
       "branch": "flutter",
@@ -46,14 +46,14 @@
     },
     {
       "branch": "main",
-      "browser_download_url": "https://api.github.com/repos/ReVanced/revanced-patcher/tarball/v16.0.2",
+      "browser_download_url": "https://api.github.com/repos/ReVanced/revanced-patcher/tarball/v17.0.0",
       "content_type": "application/x-gzip",
       "label": "patcher",
-      "name": "revanced-patcher-v16.0.2.tar.gz",
+      "name": "revanced-patcher-v17.0.0.tar.gz",
       "repository": "revanced/revanced-patcher",
       "size": "0",
-      "timestamp": "2023-10-06T23:59:36Z",
-      "version": "v16.0.2"
+      "timestamp": "2023-10-09T13:00:26Z",
+      "version": "v17.0.0"
     },
     {
       "branch": "main",
