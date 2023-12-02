@@ -2,14 +2,14 @@
   "tools": [
     {
       "branch": "main",
-      "browser_download_url": "https://github.com/ReVanced/revanced-cli/releases/download/v4.2.0/revanced-cli-4.2.0-all.jar",
+      "browser_download_url": "https://github.com/ReVanced/revanced-cli/releases/download/v4.3.0/revanced-cli-4.3.0-all.jar",
       "content_type": "application/java-archive",
       "label": "cli",
-      "name": "revanced-cli-4.2.0-all.jar",
+      "name": "revanced-cli-4.3.0-all.jar",
       "repository": "revanced/revanced-cli",
-      "size": "53528537",
-      "timestamp": "2023-11-26T05:04:27Z",
-      "version": "v4.2.0"
+      "size": "53541388",
+      "timestamp": "2023-12-01T22:30:17Z",
+      "version": "v4.3.0"
     },
     {
       "branch": "main",
@@ -24,14 +24,14 @@
     },
     {
       "branch": "flutter",
-      "browser_download_url": "https://github.com/ReVanced/revanced-manager/releases/download/v1.17.0/revanced-manager-v1.17.0.apk",
+      "browser_download_url": "https://github.com/ReVanced/revanced-manager/releases/download/v1.17.1/revanced-manager-v1.17.1.apk",
       "content_type": "application/vnd.android.package-archive",
       "label": "manager",
-      "name": "revanced-manager-v1.17.0.apk",
+      "name": "revanced-manager-v1.17.1.apk",
       "repository": "revanced/revanced-manager",
-      "size": "45294998",
-      "timestamp": "2023-11-27T08:13:01Z",
-      "version": "v1.17.0"
+      "size": "45307286",
+      "timestamp": "2023-12-02T00:53:08Z",
+      "version": "v1.17.1"
     },
     {
       "branch": "master",
