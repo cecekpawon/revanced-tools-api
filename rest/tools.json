@@ -58,12 +58,12 @@
     {
       "branch": "main",
       "browser_download_url": "https://github.com/ReVanced/revanced-patches/releases/download/v3.1.0/revanced-patches-3.1.0.jar",
-      "content_type": "application/java-archive",
+      "content_type": "application/octet-stream",
       "label": "patches_jar",
       "name": "revanced-patches-3.1.0.jar",
       "repository": "revanced/revanced-patches",
       "size": "1972553",
-      "timestamp": "2023-12-12T22:18:48Z",
+      "timestamp": "2023-12-14T02:01:31Z",
       "version": "v3.1.0"
     },
     {
@@ -74,7 +74,7 @@
       "name": "patches.json",
       "repository": "revanced/revanced-patches",
       "size": "49049",
-      "timestamp": "2023-12-12T22:18:47Z",
+      "timestamp": "2023-12-14T02:01:30Z",
       "version": "v3.1.0"
     }
   ]
