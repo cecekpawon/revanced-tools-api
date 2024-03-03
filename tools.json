@@ -13,14 +13,14 @@
     },
     {
       "branch": "main",
-      "browser_download_url": "https://github.com/ReVanced/revanced-integrations/releases/download/v1.3.2/revanced-integrations-1.3.2.apk",
+      "browser_download_url": "https://github.com/ReVanced/revanced-integrations/releases/download/v1.4.0/revanced-integrations-1.4.0.apk",
       "content_type": "application/vnd.android.package-archive",
       "label": "integrations",
-      "name": "revanced-integrations-1.3.2.apk",
+      "name": "revanced-integrations-1.4.0.apk",
       "repository": "revanced/revanced-integrations",
-      "size": "237976",
-      "timestamp": "2024-02-08T19:19:01Z",
-      "version": "v1.3.2"
+      "size": "242312",
+      "timestamp": "2024-03-02T19:01:23Z",
+      "version": "v1.4.0"
     },
     {
       "branch": "flutter",
@@ -57,25 +57,25 @@
     },
     {
       "branch": "main",
-      "browser_download_url": "https://github.com/ReVanced/revanced-patches/releases/download/v4.2.0/revanced-patches-4.2.0.jar",
+      "browser_download_url": "https://github.com/ReVanced/revanced-patches/releases/download/v4.3.0/revanced-patches-4.3.0.jar",
       "content_type": "application/java-archive",
       "label": "patches_jar",
-      "name": "revanced-patches-4.2.0.jar",
+      "name": "revanced-patches-4.3.0.jar",
       "repository": "revanced/revanced-patches",
-      "size": "2144364",
-      "timestamp": "2024-02-08T19:18:11Z",
-      "version": "v4.2.0"
+      "size": "2141005",
+      "timestamp": "2024-03-02T19:00:31Z",
+      "version": "v4.3.0"
     },
     {
       "branch": "main",
-      "browser_download_url": "https://github.com/ReVanced/revanced-patches/releases/download/v4.2.0/patches.json",
+      "browser_download_url": "https://github.com/ReVanced/revanced-patches/releases/download/v4.3.0/patches.json",
       "content_type": "application/json",
       "label": "patches_json",
       "name": "patches.json",
       "repository": "revanced/revanced-patches",
-      "size": "64326",
-      "timestamp": "2024-02-08T19:18:10Z",
-      "version": "v4.2.0"
+      "size": "65415",
+      "timestamp": "2024-03-02T19:00:29Z",
+      "version": "v4.3.0"
     }
   ]
 }
