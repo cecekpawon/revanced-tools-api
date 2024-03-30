@@ -34,15 +34,15 @@
       "version": "v1.19.3"
     },
     {
-      "branch": "master",
-      "browser_download_url": "https://github.com/TeamVanced/VancedMicroG/releases/download/v0.2.24.220220-220220001/microg.apk",
+      "branch": "main",
+      "browser_download_url": "https://github.com/ReVanced/GmsCore/releases/download/v0.3.1.3.240913/app.revanced.android.gms-240913006-signed.apk",
       "content_type": "application/vnd.android.package-archive",
       "label": "microg",
-      "name": "microg.apk",
-      "repository": "TeamVanced/VancedMicroG",
-      "size": "12203239",
-      "timestamp": "2022-03-09T19:11:04Z",
-      "version": "v0.2.24.220220-220220001"
+      "name": "app.revanced.android.gms-240913006-signed.apk",
+      "repository": "revanced/GmsCore",
+      "size": "39705059",
+      "timestamp": "2024-03-27T21:15:13Z",
+      "version": "v0.3.1.3.240913"
     },
     {
       "branch": "main",
