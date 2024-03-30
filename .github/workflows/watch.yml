@@ -25,7 +25,7 @@ jobs:
             [cli]='revanced revanced-cli main jar'
             [integrations]='revanced revanced-integrations main apk'
             [manager]='revanced revanced-manager flutter apk'
-            [microg]='TeamVanced VancedMicroG master microg.apk'
+            [microg]='revanced GmsCore main apk'
             [patcher]='revanced revanced-patcher main tarball'
             [patches_jar]='revanced revanced-patches main jar'
             [patches_json]='revanced revanced-patches main json'
