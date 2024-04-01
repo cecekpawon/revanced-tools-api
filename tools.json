@@ -2,14 +2,14 @@
   "tools": [
     {
       "branch": "main",
-      "browser_download_url": "https://github.com/ReVanced/revanced-cli/releases/download/v4.5.0/revanced-cli-4.5.0-all.jar",
+      "browser_download_url": "https://github.com/ReVanced/revanced-cli/releases/download/v4.6.0/revanced-cli-4.6.0-all.jar",
       "content_type": "application/java-archive",
       "label": "cli",
-      "name": "revanced-cli-4.5.0-all.jar",
+      "name": "revanced-cli-4.6.0-all.jar",
       "repository": "revanced/revanced-cli",
-      "size": "50853111",
-      "timestamp": "2024-03-11T09:12:50Z",
-      "version": "v4.5.0"
+      "size": "50856316",
+      "timestamp": "2024-04-01T14:57:08Z",
+      "version": "v4.6.0"
     },
     {
       "branch": "main",
