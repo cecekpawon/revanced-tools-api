@@ -49,7 +49,7 @@ jobs:
               local size=0
               local timestamp=$(echo "$json" | jq -r '.published_at')
             else
-              local obj=$(echo "$json" | jq ".assets[] | select(.name | test(\"$pattern$\"))")
+              local obj=$(echo "$json" | jq ".assets[] | select((.name | test(\"$pattern$\")) and (.name | test(\"-hw-\") | not))")
 
               local browser_download_url=$(echo "$obj" | jq -r '.browser_download_url')
               local content_type=$(echo "$obj" | jq -r '.content_type')
