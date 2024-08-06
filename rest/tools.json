@@ -46,14 +46,14 @@
     },
     {
       "branch": "main",
-      "browser_download_url": "https://api.github.com/repos/ReVanced/revanced-patcher/tarball/v19.3.1",
+      "browser_download_url": "https://api.github.com/repos/ReVanced/revanced-patcher/tarball/v20.0.0",
       "content_type": "application/x-gzip",
       "label": "patcher",
-      "name": "revanced-patcher-v19.3.1.tar.gz",
+      "name": "revanced-patcher-v20.0.0.tar.gz",
       "repository": "revanced/revanced-patcher",
       "size": "0",
-      "timestamp": "2024-02-14T00:58:49Z",
-      "version": "v19.3.1"
+      "timestamp": "2024-08-06T14:56:59Z",
+      "version": "v20.0.0"
     },
     {
       "branch": "main",
